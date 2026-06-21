@@ -1,0 +1,68 @@
+#Byte-compiled / optimized / DLL files
+
+pycache/
+*.py[cod]
+*$py.class
+
+#Virtual environments
+
+venv/
+.venv/
+env/
+ENV/
+
+#Distribution / packaging
+
+build/
+dist/
+*.egg-info/
+.eggs/
+
+#Testing
+
+.pytest_cache/
+.coverage
+htmlcov/
+.tox/
+.mypy_cache/
+.ruff_cache/
+
+#IDE - PyCharm
+
+.idea/
+*.iml
+
+#VS Code
+
+.vscode/
+
+#macOS
+
+.DS_Store
+.AppleDouble
+.LSOverride
+
+#Logs
+
+*.log
+
+#Environment variables
+
+.env
+.env.*
+
+#Jupyter Notebook
+
+.ipynb_checkpoints/
+
+#Python version manager
+
+.python-version
+
+#Coverage reports
+
+coverage.xml
+
+#Local settings
+
+local_settings.py
