@@ -1,0 +1,1 @@
+{"uuid": "dedf1416-872b-493e-929b-ecbddb862ecd", "children": ["70b367ce-5374-492c-9e20-a9d3c4f700ad"], "befores": [{"name": "credit_user_factory", "status": "passed", "start": 1782065530189, "stop": 1782065530189}], "afters": [{"name": "credit_user_factory::<lambda>", "start": 1782065531758}], "start": 1782065530189, "stop": 1782065531758}
